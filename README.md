@@ -56,5 +56,5 @@ The inspiration behind this project was the **lack of interactive learning tools
 ## 🎮 Demo 🎮
 --------------------------
 
-Unfortunately, there is no demo available for this project at the moment.
+you will find the game in (/Game) folder
 
