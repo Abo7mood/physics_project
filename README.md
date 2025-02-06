@@ -31,7 +31,7 @@ This project was developed independently as a **solo endeavor**, focusing on **r
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abo7mood/3D_Physics_Edu.git
+   git clone https://github.com/Abo7mood/physics_project.git
    ```
 2. Open the project in Unity (version 2020.3.24f1).
 3. Build and run the project on your Windows PC.
