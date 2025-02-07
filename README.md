@@ -1,60 +1,115 @@
-# 3D Physics Educational Project 🎓🔬
+
+# Custom Pac-Man Game 🎮👀
 --------------------------
-Welcome to **3D Physics Educational Project**! 🏗️ This is a **simple 3D physics-based simulation** designed for educational purposes. Built with **Unity's physics engine**, this project demonstrates core physics concepts in an interactive environment, making learning more engaging and intuitive.
-![Game Preview](https://github.com/user-attachments/assets/161d5d32-1f41-460b-a15a-7ad878db39aa)
+Welcome to **Custom Pac-Man Game**! 🎮 This is a **classic maze chase game**, designed for a **client with specific requests** while keeping all the original **Pac-Man mechanics** that players love! Navigate through the maze, collect pellets, avoid ghosts, and aim for the highest score!
 
-## 🔥 Solo Project 🔥
-This project was developed independently as a **solo endeavor**, focusing on **realistic physics mechanics** with a minimalistic design to help users understand physics principles in action.
+## 🔥 Solo Project 🔥  
+This project was developed as a **freelancing project**, created for a client who wanted a **custom version** of **Pac-Man** with specific modifications.
 
-## 🎮 Gameplay Details 🎮
+## 🎮 Gameplay Details 🎮  
 
-- **Operating System**: Windows / PC 🖥️
-- **Controls**: Keyboard & Mouse ⌨️🖱️
-- **Game Type**: 3D Physics Simulation 🌍
+- **Operating System**: Windows 🖥️  
+- **Controls**: Keyboard ⌨️  
+- **Game Type**: 2D Classic Arcade Maze 🌍  
 
-## 🌟 Key Features 🌟
+## 🌟 Key Features 🌟  
 
-- **Basic Physics Mechanics**: Experience fundamental physics concepts like gravity, friction, and collision detection. ⚖️
-- **Interactive Elements**: Engage with movable objects, ramps, and platforms to observe real-time physics. 🏗️
-- **Educational Focus**: Designed to assist in teaching physics in a **practical and interactive** way. 📚
-- **Minimalist UI**: Simple interface ensuring a smooth and distraction-free learning experience. 🎯
-- **Realistic Simulations**: Utilizes **Unity's physics engine** for accurate and dynamic movements. 🌀
+- **Classic Pac-Man Mechanics**: Experience the original gameplay of collecting pellets, avoiding ghosts, and using power-ups! 🌿  
+- **Custom Client Modifications**: Tailored based on the client’s specific requests. 🛠️  
+- **Advanced AI for Ghosts**: Smart enemy behavior that makes each level more challenging and engaging! 👻  
+- **High Score System**: Try to beat your personal best and set new records! 🏆  
+- **Retro Graphics & Sounds**: Maintains the **classic arcade feel** with some modern enhancements. 🎧  
 
-## 🔧 Technologies Used 🔧
+## 🔧 Technologies Used 🔧  
 
-- **Unity Engine** 🎮
-- **C# Programming Language** 💻
-- **Unity Physics Engine** 🔬
+- **Unity Engine** 🎮  
+- **C# Programming Language** 💻  
+- **AI Pathfinding System for Ghosts** 🔄  
 
-## ⚙️ Installation ⚙️
+## ⚙️ Installation ⚙️  
 
-1. Clone the repository:
+There is no **source code** available for this game.  
 
+## 🧐 Additional Information 🧐  
+
+- **Developed with Unity**: Built to maintain the **classic arcade experience** with a few modern upgrades.  
+- **Client-Specific Customizations**: Adjustments and modifications were made as per client requests.  
+- **Version**: 2021.3.16f1  
+
+## 📝 License 📝  
+
+This project is licensed under the **MIT License** - refer to the LICENSE file for details. ⚖️  
+
+## 📚 Story of this Game 📚  
+--------------------------  
+
+This game was a **freelancing project**, developed for a client who wanted a **personalized Pac-Man experience** with custom features. The challenge was to **recreate the beloved classic** while incorporating **new elements** that matched the client’s vision.
+
+From designing **smart AI-controlled ghosts** to ensuring smooth and nostalgic gameplay, every detail was carefully crafted to deliver a **true arcade feel**. This project helped me dive deeper into the **mechanics of classic arcade games**, sharpening my skills in **game AI and level design** while delivering a polished product to the client.
+
+## 🎮 Demo 🎮  
+--------------------------  
+
+[Try the game here](https://abo-7mood.itch.io/pacman)  
+
+
+
+# مشروع تعليم الفيزياء 3D 🎓🔬
+--------------------------
+حياك الله في **مشروع تعليم الفيزياء 3D**! 🏗️ هذا مشروع **محاكاة ثلاثية الأبعاد مبنية على الفيزياء** ومصمم لأغراض تعليمية. باستخدام **محرك فيزياء Unity**، يهدف المشروع إلى شرح المفاهيم الفيزيائية بطريقة تفاعلية تجعل التعلم ممتع وسهل.
+
+![صورة اللعبة](https://github.com/user-attachments/assets/161d5d32-1f41-460b-a15a-7ad878db39aa)
+
+## 🔥 مشروع فردي 🔥
+تم تطوير هذا المشروع بالكامل كـ **مشروع فردي**، وركزت فيه على **محاكاة الفيزياء الواقعية** بتصميم بسيط يساعد المستخدمين على فهم المبادئ الفيزيائية بشكل عملي.
+
+## 🎮 تفاصيل اللعب 🎮
+
+- **نظام التشغيل**: ويندوز / PC 🖥️
+- **طريقة التحكم**: كيبورد وماوس ⌨️🖱️
+- **نوع اللعبة**: محاكاة فيزيائية 3D 🌍
+
+## 🌟 المميزات 🌟
+
+- **ميكانيكيات فيزيائية أساسية**: تجربة مفاهيم الفيزياء الأساسية مثل الجاذبية، الاحتكاك، والكشف عن التصادمات. ⚖️
+- **عناصر تفاعلية**: التفاعل مع الأجسام القابلة للحركة، المنحدرات، والمنصات لمشاهدة الفيزياء بشكل عملي. 🏗️
+- **تركيز تعليمي**: مصمم ليساعد في تدريس الفيزياء بطريقة **تفاعلية وعملية**. 📚
+- **واجهة بسيطة**: واجهة مستخدم خفيفة وسهلة الاستخدام عشان يكون التركيز على التجربة التعليمية. 🎯
+- **محاكاة واقعية**: يعتمد على **محرك الفيزياء في Unity** لنتائج دقيقة وحركات ديناميكية. 🌀
+
+## 🔧 التقنيات المستخدمة 🔧
+
+- **محرك Unity** 🎮
+- **لغة البرمجة C#** 💻
+- **محرك فيزياء Unity** 🔬
+
+## ⚙️ طريقة التثبيت ⚙️
+
+1. حمل المشروع:
    ```bash
    git clone https://github.com/Abo7mood/physics_project.git
    ```
-2. Open the project in Unity (version 2020.3.24f1).
-3. Build and run the project on your Windows PC.
+2. افتح المشروع في Unity (الإصدار 2020.3.24f1).
+3. قم ببناء وتشغيل المشروع على جهازك.
 
-## 🛠️ Additional Information 🛠️
+## 🛠️ معلومات إضافية 🛠️
 
-- **Made with Unity**: Built to visualize physics concepts interactively.
-- **Designed for Learning**: Ideal for students, teachers, and physics enthusiasts.
-- **Version**: 2020.3.24f1
+- **تم تطويره بمحرك Unity**: يوفر تجربة تعليمية تفاعلية للفيزياء.
+- **مصمم للتعليم**: مناسب للطلاب، المعلمين، وعشاق الفيزياء.
+- **الإصدار**: 2020.3.24f1
 
-## 📜 License
+## 📜 الرخصة 📜
 
-This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
+المشروع مرخص تحت **MIT License** - تقدر تشوف ملف الترخيص لمزيد من التفاصيل. ⚖️
 
-## Story of this game 📚
+## قصة المشروع 📚
 --------------------------
 
-This **educational physics project** was developed as a **solo project**, aiming to create a simple yet effective **physics simulation tool**. The goal was to provide a **hands-on experience** to help users grasp essential physics principles through direct interaction.
+هذا **المشروع التعليمي للفيزياء** بدأ كمشروع **فردي**، وكان الهدف منه توفير **محاكاة فيزيائية مبسطة** تساعد الناس على فهم المفاهيم الأساسية بطريقة عملية.
 
-The inspiration behind this project was the **lack of interactive learning tools** in physics education. By creating a **visual and engaging way** to experiment with physics, this project helps bridge the gap between theoretical concepts and real-world applications.
+الإلهام جاني من قلة وجود أدوات تفاعلية لتعليم الفيزياء بطريقة سهلة. فبدل ما تكون الدراسة كلها نظريات، يوفر هذا المشروع **طريقة مرئية وتفاعلية** لتجربة المفاهيم العلمية بشكل عملي.
 
-## 🎮 Demo 🎮
+## 🎮 الديمو 🎮
 --------------------------
 
-you will find the game in (/Game) folder
-
+بتحصل اللعبة داخل المجلد **/Game**
